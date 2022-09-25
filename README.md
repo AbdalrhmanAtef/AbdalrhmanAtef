@@ -1,8 +1,7 @@
-[![MasterHead]](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76111d8d8ce8b35be494fd91f6802c3618969e3c1bbd&rid=giphy.gif&ct=g)
+
 h1 align=centerHi 👋, I'm Abdelrhman Atefh1
 h3 align=centerMechatronics Engineerh3
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+(img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 - 🌱 I’m currently learning Embedded System Software
 
 - 💬 Ask me about c , c++ ,Python ,Java ,Embedded C ,Matlab, Assembly.
